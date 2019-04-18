@@ -1,0 +1,6 @@
+framework module MMProject {
+  umbrella header "MMProject-umbrella.h"
+
+  export *
+  module * { export * }
+}
