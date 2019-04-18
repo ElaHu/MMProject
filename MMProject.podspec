@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'MMProject'
   s.version          = '0.1.3'
-  s.summary          = 'A short description of MMProject.'
+  s.summary          = 'first pod project'
 
   s.description      = <<-DESC
 This is my first pod Project.This is my first pod Project.
