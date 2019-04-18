@@ -8,12 +8,13 @@
 
 Pod::Spec.new do |s|
   s.name             = 'MMProject'
-  s.version          = '0.1.2'
+  s.version          = '0.1.3'
   s.summary          = 'A short description of MMProject.'
 
   s.description      = <<-DESC
 This is my first pod Project.This is my first pod Project.
                        DESC
+
   s.homepage         = 'https://github.com/ElaHu/MMProject'
 
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
